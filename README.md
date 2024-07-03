@@ -1,4 +1,4 @@
-# Pvcpie
+# Pvcpie 🍰
 A tool to get pvc usage information from kubernetes for a cluster. It uses [kubernetes nodes metric data](https://kubernetes.io/docs/reference/instrumentation/node-metrics/) to fetch volumes for and calculate their disk usage.
 
 # Usage
