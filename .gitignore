@@ -7,4 +7,3 @@ __pycache__
 artifacts
 dist
 .DS_Store
-poetry.lock
