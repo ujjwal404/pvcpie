@@ -1,0 +1,10 @@
+__pycache__
+.hypothesis
+.pytest_cache
+.venv
+.vscode
+*.tgz
+artifacts
+dist
+.DS_Store
+poetry.lock
