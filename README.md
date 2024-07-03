@@ -41,11 +41,12 @@ or
 poetry run pvcpie -i
 ```
 
-or run this in api mode to get the json data
+or run this in api mode to get the json data. 
 ```
 poetry run pvcpie --api
 ```
-
+TODO:
+[ ] Add a swagger page to get metrics in API mode from cluster
 
 ## Customize
 

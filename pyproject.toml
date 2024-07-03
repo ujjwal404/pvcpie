@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pvcpie"
-version = "0.1.1"
-description = "Package to get PVC storage information in a cluster"
+version = "0.1.2"
+description = "Package to get PVC usage information in a cluster"
 authors = ["Ujjwal <ujjwal@amagi.com>"]
 readme = "README.md"
 
